@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Golang and Microservice Architecture**
 
-- 👨‍💻 All of my projects are available at [https://newmazaharul.vercel.app](https://newmazaharul.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.mazaharul.site](https://www.mazaharul.site)
 
 - 💬 Ask me about **node, react ,JavaScript**
 
 - 📫 How to reach me **devmazaharul@gmail.com**
 
-- 📄 Know about my experiences [https://newmazaharul.vercel.app/mazaharul_resume.pdf](https://newmazaharul.vercel.app/mazaharul_resume.pdf)
+- 📄 Know about my experiences [https://www.mazaharul.site/mazaharul_resume.pdf](https://www.mazaharul.site/mazaharul_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
