@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **devmazaharul@gmail.com**
 
-- 📄 Know about my experiences [https://www.mazaharul.site/mazaharul_resume.pdf](https://www.mazaharul.site/mazaharul_resume.pdf)
+- 📄 Know about my experiences [https://newmazahaul.vercel.app/mazaharul_resume.pdf](https://www.mazaharul.site/mazaharul_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
